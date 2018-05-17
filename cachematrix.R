@@ -3,7 +3,7 @@
 
 ## The functions will help in calculating the inverse 
 ## of a matrix by caching the inverse to increase 
-## computing speed, espacially for large matrices
+## computing speed, especially for large matrices
 ## The functions is modelled on the examples in the assignment 
 ## instructions
 
